@@ -1,0 +1,32 @@
+{
+  "name": "helloRequireJS",
+  "version": "1.0.0",
+  "description": "HelloWorld project with require.js",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahife/helloRequireJS"
+  },
+  "keywords": [
+    "javascript",
+    "requirejs",
+    "helloworld",
+    "intro",
+    "example"
+  ],
+  "author": "rafa.hidalgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahife/helloRequireJS/issues"
+  },
+  "homepage": "https://github.com/rahife/helloRequireJS",
+  "devDependencies": {
+    "requirejs": "^2.1.15"
+  }
+}
