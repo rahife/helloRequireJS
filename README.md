@@ -13,3 +13,10 @@ To do this from the scratch
 - Add `require` ...etc to HelloWord.js
 - Add `define` ...etc to saySomething.js
 - Run it on a browser from four IDE or set up a vhost on apache.
+
+To download the code and run it
+-------------------------------
+
+- `git clone https://github.com/rahife/helloRequireJS`
+- Enter the helloRequireJS and run `npm install` to download and install dependencies
+- Run it on a browser from four IDE or set up a vhost on apache.
